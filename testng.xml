@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+<test name="Verify_ProSchool_Website_Test">
+    <classes>
+        <class name="CucumberOptions.LoginRunner" ></class>  
+    </classes>
+</test>
+
+
+</suite>
